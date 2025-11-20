@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+}
+
+body{
+    text-align: center;
+    overflow: hidden;
+    background-color: darkgray;
+}
+
+canvas{
+    background-color: gainsboro;
+}
